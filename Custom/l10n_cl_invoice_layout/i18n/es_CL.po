@@ -1,0 +1,183 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* l10n_cl_invoice_layout
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0+e-20201218\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-29 01:55+0000\n"
+"PO-Revision-Date: 2020-12-29 01:55+0000\n"
+"Last-Translator: Alexander Olivares <aolivares@konos.cl>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid ""
+"<span groups=\"account.group_show_line_subtotals_tax_excluded\">Amount</span>\n"
+"                                <span groups=\"account.group_show_line_subtotals_tax_included\">Total Price</span>"
+msgstr ""
+"<span groups=\"account.group_show_line_subtotals_tax_excluded\">Importe</span>\n"
+"                                 <span groups=\"account.group_show_line_subtotals_tax_included\">Precio Total </span>"
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid "<span>Code</span>"
+msgstr "<span>Código</span>"
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid "<span>Date</span>"
+msgstr "<span>Fecha</span>"
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid "<span>Description</span>"
+msgstr "<span>Descripción</span>"
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid "<span>Disc.%</span>"
+msgstr "<span>Desc.%</span>"
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid "<span>Document Type</span>"
+msgstr "<span>Tipo Documento</span>"
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid "<span>Folio</span>"
+msgstr "<span>Folio</span>"
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid "<span>Item</span>"
+msgstr "<span>Item</span>"
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid "<span>Quantity</span>"
+msgstr "<span>Cantidad</span>"
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid "<span>Reference Reason</span>"
+msgstr "<span>Razón Referencia</span>"
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid "<span>Unit Price</span>"
+msgstr "<span>Precio Unitario</span>"
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid "<strong class=\"mr16\">Subtotal</strong>"
+msgstr "<strong class=\"mr16\">Subtotal</strong>"
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid ""
+"<strong class=\"text-center\">Scan me with your banking "
+"app.</strong><br/><br/>"
+msgstr ""
+"<strong class=\"text-center\">Para ser escaneado con la aplicación "
+"bancaria.</strong><br/><br/>"
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid "<strong>Address:</strong>"
+msgstr "<strong>Dirección:</strong>"
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid "<strong>Amount Due</strong>"
+msgstr "<strong>Importe adeudado</strong>"
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid "<strong>Cedible</strong>"
+msgstr "<strong>Cedible</strong>"
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid "<strong>Commune:</strong>"
+msgstr "<strong>Comuna:</strong>"
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid "<strong>Customer:</strong>"
+msgstr "<strong>Cliente:</strong>"
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid "<strong>Date:</strong>"
+msgstr "<strong>Fecha:</strong>"
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid "<strong>Due Date:</strong>"
+msgstr "<strong>Vencimiento:</strong>"
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid "<strong>Giro:</strong>"
+msgstr "<strong>Giro:</strong>"
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid "<strong>Net Amount</strong>"
+msgstr "<strong>Monto Neto</strong>"
+
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid "<strong>Phone:</strong>"
+msgstr "<strong>Teléfono:</strong>"
+
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid "<strong>Total Amount</strong>"
+msgstr "<strong>Monto Total</strong>"
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid "<strong>VAT:</strong>"
+msgstr "<strong>RUT:</strong>"
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid "<strong>Vendor:</strong>"
+msgstr "<strong>Proveedor:</strong>"
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid "Paid on"
+msgstr "Pagado en"
+
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid "References to other documents"
+msgstr "Referencias a otros documentos"
+
+#. module: l10n_cl_invoice_layout
+#: model:ir.actions.report,name:l10n_cl_invoice_layout.account_cedible
+msgid "Cedible"
+msgstr "Cedible"
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid "on"
+msgstr "de"
+
+#. module: l10n_cl_invoice_layout
+#: model_terms:ir.ui.view,arch_db:l10n_cl_invoice_layout.report_invoice_document
+msgid "<strong>Payment Term:</strong>"
+msgstr "<strong>Término de Pago:</strong>"
